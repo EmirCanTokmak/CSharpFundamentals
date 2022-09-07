@@ -1,0 +1,15 @@
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\bin\Debug\net6.0\veriTipleri.exe
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\bin\Debug\net6.0\veriTipleri.deps.json
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\bin\Debug\net6.0\veriTipleri.runtimeconfig.json
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\bin\Debug\net6.0\veriTipleri.dll
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\bin\Debug\net6.0\veriTipleri.pdb
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\veriTipleri.csproj.AssemblyReference.cache
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\veriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\veriTipleri.AssemblyInfoInputs.cache
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\veriTipleri.AssemblyInfo.cs
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\veriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\veriTipleri.dll
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\refint\veriTipleri.dll
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\veriTipleri.pdb
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\veriTipleri.genruntimeconfig.cache
+C:\Users\xabze\Documents\GitHub\CSharpFundamentals\1IlkProgramveVeriTipleri\veriTipleri\veriTipleri\obj\Debug\net6.0\ref\veriTipleri.dll
